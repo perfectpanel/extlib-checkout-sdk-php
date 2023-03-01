@@ -13,6 +13,7 @@
             "email": "platforms@checkout.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
