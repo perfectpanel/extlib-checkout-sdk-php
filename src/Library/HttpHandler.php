@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Library;
+namespace perfectpanel\Checkout\Library;
 
-use Checkout\CheckoutApi;
-use Checkout\Library\Exceptions\CheckoutHttpException;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
 
 /**
  * Http handler class.
@@ -620,7 +620,7 @@ class HttpHandler
         if($query && $this->params) {
             $result = '?' . http_build_query($this->params);
         }
-        
+
         if(!$query) {
             $result = $this->params;
         }

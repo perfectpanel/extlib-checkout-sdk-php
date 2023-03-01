@@ -15,20 +15,20 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout;
+namespace perfectpanel\Checkout;
 
-use Checkout\Controllers\EventController;
-use Checkout\Controllers\FileController;
-use Checkout\Controllers\PaymentController;
-use Checkout\Controllers\SourceController;
-use Checkout\Controllers\TokenController;
-use Checkout\Controllers\WebhookController;
-use Checkout\Library\CheckoutConfiguration;
-use Checkout\Library\Controller;
-use Checkout\Library\HttpHandler;
-use Checkout\Library\LogHandler;
-use Checkout\Library\Model;
-use Checkout\Library\Utilities;
+use perfectpanel\Checkout\Controllers\EventController;
+use perfectpanel\Checkout\Controllers\FileController;
+use perfectpanel\Checkout\Controllers\PaymentController;
+use perfectpanel\Checkout\Controllers\SourceController;
+use perfectpanel\Checkout\Controllers\TokenController;
+use perfectpanel\Checkout\Controllers\WebhookController;
+use perfectpanel\Checkout\Library\CheckoutConfiguration;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\LogHandler;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Wrapper controller class of Checkout.com SDK.

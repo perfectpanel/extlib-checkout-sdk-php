@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Controllers;
+namespace perfectpanel\Checkout\Controllers;
 
 use Checkout\Library\Controller;
 use Checkout\Library\Exceptions\CheckoutModelException;

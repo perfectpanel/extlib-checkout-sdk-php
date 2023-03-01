@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Controllers;
+namespace perfectpanel\Checkout\Controllers;
 
 use Checkout\Library\Controller;
 use Checkout\Library\HttpHandler;
@@ -162,34 +162,34 @@ class PaymentController extends Controller
 
         return parent::response($response, Payment::QUALIFIED_NAME, $mode);
     }
-    
+
     /**
      * Extra methods.
      */
-    
+
     /**
      * Retrieve supported banks.
-     * 
+     *
      * @param  string $class Qualified name of the class.
      * @return Response
      */
     public function banks($class, $mode = HttpHandler::MODE_EXECUTE)
-    { 
-        
+    {
+
         $banks = new Response();
         $url = $class::MODEL_REQUEST_BANKS_URL;
-       
+
         if($url) {
             $response = $this->requestAPI($url);
             $banks = $this->response($response, Response::QUALIFIED_NAME, $mode);
         }
-        
+
         return $banks;
     }
-    
+
     /**
      * Retrieve supported issuers. Alias for $this->banks().
-     * 
+     *
      * @param  string $model
      * @return array
      */
