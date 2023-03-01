@@ -22,7 +22,7 @@ composer require checkout/checkout-sdk-php
 
 Or require the Checkout.com package inside the composer.json file of your project:
 ```php
-"require": { "php": ">=5.6", "checkout/checkout-sdk-php": "1.0.0"}.
+"require": { "php": ">=5.6", "perfectpanel/extlib-checkout-sdk-php": "1.0.0"}.
 ```
 
 ### Clone repository
