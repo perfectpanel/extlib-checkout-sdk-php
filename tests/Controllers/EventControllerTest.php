@@ -1,12 +1,12 @@
 <?php
 
-namespace Checkout\tests\Controllers;
+namespace perfectpanel\Checkout\tests\Controllers;
 
-use Checkout\CheckoutApi;
-use Checkout\Library\HttpHandler;
-use Checkout\tests\Helpers\Events;
-use Checkout\tests\Helpers\Notifications;
-use Checkout\tests\Helpers\Webhooks;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\tests\Helpers\Events;
+use perfectpanel\Checkout\tests\Helpers\Notifications;
+use perfectpanel\Checkout\tests\Helpers\Webhooks;
 use PHPUnit\Framework\TestCase;
 
 class EventControllerTest extends TestCase

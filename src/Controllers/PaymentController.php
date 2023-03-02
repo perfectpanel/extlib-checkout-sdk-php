@@ -17,15 +17,15 @@
 
 namespace perfectpanel\Checkout\Controllers;
 
-use Checkout\Library\Controller;
-use Checkout\Library\HttpHandler;
-use Checkout\Models\Payments\Action;
-use Checkout\Models\Payments\Capture;
-use Checkout\Models\Payments\Details;
-use Checkout\Models\Payments\Payment;
-use Checkout\Models\Payments\Refund;
-use Checkout\Models\Payments\Voids;
-use Checkout\Models\Response;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Models\Payments\Action;
+use perfectpanel\Checkout\Models\Payments\Capture;
+use perfectpanel\Checkout\Models\Payments\Details;
+use perfectpanel\Checkout\Models\Payments\Payment;
+use perfectpanel\Checkout\Models\Payments\Refund;
+use perfectpanel\Checkout\Models\Payments\Voids;
+use perfectpanel\Checkout\Models\Response;
 
 /**
  * Make payments.

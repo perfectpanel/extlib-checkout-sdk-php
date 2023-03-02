@@ -17,9 +17,9 @@
 
 namespace perfectpanel\Checkout\Controllers;
 
-use Checkout\Library\Controller;
-use Checkout\Library\HttpHandler;
-use Checkout\Models\Tokens\Token;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Models\Tokens\Token;
 
 /**
  * Handle tokens.

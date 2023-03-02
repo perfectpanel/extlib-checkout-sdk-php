@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Library;
 
-use Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\HttpHandler;
 
 /**
  * Controller parent class.

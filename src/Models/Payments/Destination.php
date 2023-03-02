@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
 /**
  * Parent class for Destinations.

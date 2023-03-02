@@ -1,8 +1,8 @@
 <?php
 
-namespace Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Checkout\Models\Response;
+use perfectpanel\Checkout\Models\Response;
 
 class Responses
 {

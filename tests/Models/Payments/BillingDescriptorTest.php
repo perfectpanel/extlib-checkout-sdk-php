@@ -1,8 +1,8 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Payments\BillingDescriptor;
+use perfectpanel\Checkout\Models\Payments\BillingDescriptor;
 use PHPUnit\Framework\TestCase;
 
 class BillingDescriptorTest extends TestCase

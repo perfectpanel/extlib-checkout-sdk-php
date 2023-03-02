@@ -1,10 +1,10 @@
 <?php
 
-namespace Checkout\tests\Library;
+namespace perfectpanel\Checkout\tests\Library;
 
-use Checkout\Library\Exceptions\CheckoutHttpException;
-use Checkout\Library\HttpHandler;
-use Checkout\tests\Helpers\HttpHandlers;
+use perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\tests\Helpers\HttpHandlers;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

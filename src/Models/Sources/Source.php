@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Sources;
+namespace perfectpanel\Checkout\Models\Sources;
 
-use Checkout\Library\HttpHandler;
-use Checkout\Library\Model;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Model for sources.

@@ -1,6 +1,6 @@
 <?php
 
-namespace Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
 class Notifications
 {

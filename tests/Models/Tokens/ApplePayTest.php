@@ -1,9 +1,9 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Tokens\ApplePay;
-use Checkout\tests\Helpers\Tokens;
+use perfectpanel\Checkout\Models\Tokens\ApplePay;
+use perfectpanel\Checkout\tests\Helpers\Tokens;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

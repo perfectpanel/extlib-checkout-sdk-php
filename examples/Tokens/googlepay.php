@@ -16,8 +16,8 @@ require_once "../../checkout.php";
 /**
  * Used namespaces.
  */
-use Checkout\CheckoutApi;
-use Checkout\Models\Tokens\GooglePay;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Models\Tokens\GooglePay;
 
 /**
  * Create new instance of Checkout

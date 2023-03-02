@@ -17,20 +17,20 @@ require_once "../../checkout.php";
  * Use namespaces.
  */
 
-use Checkout\CheckoutApi;
-use Checkout\Models\Payments\AlipaySource;
-use Checkout\Models\Payments\BancontactSource;
-use Checkout\Models\Payments\BoletoSource;
-use Checkout\Models\Payments\EpsSource;
-use Checkout\Models\Payments\FawrySource;
-use Checkout\Models\Payments\GiropaySource;
-use Checkout\Models\Payments\IdealSource;
-use Checkout\Models\Payments\KnetSource;
-use Checkout\Models\Payments\Payment;
-use Checkout\Models\Payments\PoliSource;
-use Checkout\Models\Payments\QpaySource;
-use Checkout\Models\Payments\SofortSource;
-use Checkout\Models\Product;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Models\Payments\AlipaySource;
+use perfectpanel\Checkout\Models\Payments\BancontactSource;
+use perfectpanel\Checkout\Models\Payments\BoletoSource;
+use perfectpanel\Checkout\Models\Payments\EpsSource;
+use perfectpanel\Checkout\Models\Payments\FawrySource;
+use perfectpanel\Checkout\Models\Payments\GiropaySource;
+use perfectpanel\Checkout\Models\Payments\IdealSource;
+use perfectpanel\Checkout\Models\Payments\KnetSource;
+use perfectpanel\Checkout\Models\Payments\Payment;
+use perfectpanel\Checkout\Models\Payments\PoliSource;
+use perfectpanel\Checkout\Models\Payments\QpaySource;
+use perfectpanel\Checkout\Models\Payments\SofortSource;
+use perfectpanel\Checkout\Models\Product;
 
 /**
  * Create new instance of Checkout

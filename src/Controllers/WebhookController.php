@@ -17,13 +17,13 @@
 
 namespace perfectpanel\Checkout\Controllers;
 
-use Checkout\Library\Controller;
-use Checkout\Library\Exceptions\CheckoutModelException;
-use Checkout\Library\HttpHandler;
-use Checkout\Library\Utilities;
-use Checkout\Models\Response;
-use Checkout\Models\Webhooks\Webhook;
-use Checkout\Models\Webhooks\WebhookHeaders;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\Exceptions\CheckoutModelException;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\Utilities;
+use perfectpanel\Checkout\Models\Response;
+use perfectpanel\Checkout\Models\Webhooks\Webhook;
+use perfectpanel\Checkout\Models\Webhooks\WebhookHeaders;
 
 /**
  * Webhook controller.

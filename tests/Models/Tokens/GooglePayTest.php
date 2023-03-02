@@ -1,9 +1,9 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Tokens\GooglePay;
-use Checkout\tests\Helpers\Tokens;
+use perfectpanel\Checkout\Models\Tokens\GooglePay;
+use perfectpanel\Checkout\tests\Helpers\Tokens;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

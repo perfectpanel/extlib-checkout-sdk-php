@@ -1,8 +1,8 @@
 <?php
 
-namespace Checkout\tests\Library;
+namespace perfectpanel\Checkout\tests\Library;
 
-use Checkout\Library\Utilities;
+use perfectpanel\Checkout\Library\Utilities;
 use PHPUnit\Framework\TestCase;
 
 /**

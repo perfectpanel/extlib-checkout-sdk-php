@@ -1,10 +1,10 @@
 <?php
 
-namespace Checkout\tests\Controllers;
+namespace perfectpanel\Checkout\tests\Controllers;
 
-use Checkout\CheckoutApi;
-use Checkout\Library\HttpHandler;
-use Checkout\tests\Helpers\Webhooks;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\tests\Helpers\Webhooks;
 use PHPUnit\Framework\TestCase;
 
 class WebhookControllerTest extends TestCase

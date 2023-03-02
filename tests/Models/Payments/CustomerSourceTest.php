@@ -1,9 +1,9 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Payments\CustomerSource;
-use Checkout\tests\Helpers\Sources;
+use perfectpanel\Checkout\Models\Payments\CustomerSource;
+use perfectpanel\Checkout\tests\Helpers\Sources;
 use PHPUnit\Framework\TestCase;
 
 class CustomerSourceTest extends TestCase

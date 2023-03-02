@@ -15,11 +15,11 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Checkout\Library\HttpHandler;
-use Checkout\Library\Model;
-use Checkout\Library\Utilities;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Void Model.

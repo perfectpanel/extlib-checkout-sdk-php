@@ -1,14 +1,14 @@
 <?php
 
-namespace Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Checkout\Models\Payments\Action;
-use Checkout\Models\Payments\Capture;
-use Checkout\Models\Payments\CardSource;
-use Checkout\Models\Payments\Payment;
-use Checkout\Models\Payments\Refund;
-use Checkout\Models\Payments\ThreeDs;
-use Checkout\Models\Payments\Voids;
+use perfectpanel\Checkout\Models\Payments\Action;
+use perfectpanel\Checkout\Models\Payments\Capture;
+use perfectpanel\Checkout\Models\Payments\CardSource;
+use perfectpanel\Checkout\Models\Payments\Payment;
+use perfectpanel\Checkout\Models\Payments\Refund;
+use perfectpanel\Checkout\Models\Payments\ThreeDs;
+use perfectpanel\Checkout\Models\Payments\Voids;
 
 class Payments
 {

@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Sources;
+namespace perfectpanel\Checkout\Models\Sources;
 
-use Checkout\Models\Address;
+use perfectpanel\Checkout\Models\Address;
 
 /**
  * Billing Address for SEPA source.

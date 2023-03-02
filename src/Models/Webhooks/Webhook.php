@@ -15,11 +15,11 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Webhooks;
+namespace perfectpanel\Checkout\Models\Webhooks;
 
-use Checkout\Library\Model;
-use Checkout\Library\Utilities;
-use Checkout\Models\Response;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
+use perfectpanel\Checkout\Models\Response;
 
 /**
  * Webhook model.

@@ -1,9 +1,9 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Payments\Refund;
-use Checkout\tests\Helpers\Payments;
+use perfectpanel\Checkout\Models\Payments\Refund;
+use perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

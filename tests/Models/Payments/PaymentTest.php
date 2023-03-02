@@ -1,10 +1,10 @@
 <?php
 
-namespace Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Checkout\Models\Payments\Payment;
-use Checkout\tests\Helpers\HttpHandlers;
-use Checkout\tests\Helpers\Payments;
+use perfectpanel\Checkout\Models\Payments\Payment;
+use perfectpanel\Checkout\tests\Helpers\HttpHandlers;
+use perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 
 class PaymentTest extends TestCase

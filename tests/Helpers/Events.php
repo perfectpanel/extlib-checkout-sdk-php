@@ -1,8 +1,8 @@
 <?php
 
-namespace Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Checkout\Models\Events\Event;
+use perfectpanel\Checkout\Models\Events\Event;
 
 class Events
 {

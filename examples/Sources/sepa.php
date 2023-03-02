@@ -18,10 +18,10 @@ require_once "../../checkout.php";
  * Use namespaces.
  */
 
-use Checkout\CheckoutApi;
-use Checkout\Models\Sources\Sepa;
-use Checkout\Models\Sources\SepaData;
-use Checkout\Models\Sources\SepaAddress;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Models\Sources\Sepa;
+use perfectpanel\Checkout\Models\Sources\SepaData;
+use perfectpanel\Checkout\Models\Sources\SepaAddress;
 
 /**
  * Create new instance of Checkout

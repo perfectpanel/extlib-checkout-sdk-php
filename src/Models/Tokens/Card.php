@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Checkout\Models\Tokens;
+namespace perfectpanel\Checkout\Models\Tokens;
 
-use Checkout\Library\Model;
-use Checkout\Library\Utilities;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Card payment method.
