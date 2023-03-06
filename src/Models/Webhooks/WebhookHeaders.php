@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models\Webhooks;
+namespace Perfectpanel\Checkout\Models\Webhooks;
 
 use Perfectpanel\Checkout\Library\Model;
 

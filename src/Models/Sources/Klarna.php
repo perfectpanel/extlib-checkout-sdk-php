@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models\Sources;
+namespace Perfectpanel\Checkout\Models\Sources;
 
 use Perfectpanel\Checkout\Library\Model;
 use Perfectpanel\Checkout\Library\Utilities;

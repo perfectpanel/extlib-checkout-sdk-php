@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Library\Exceptions;
+namespace Perfectpanel\Checkout\Library\Exceptions;
 
 use Perfectpanel\Checkout\Library\LogHandler;
 use Exception;

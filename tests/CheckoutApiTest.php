@@ -1,6 +1,6 @@
 <?php
 
-namespace perfectpanel\Checkout\tests;
+namespace Perfectpanel\Checkout\tests;
 
 use Perfectpanel\Checkout\CheckoutApi;
 use Perfectpanel\Checkout\Library\HttpHandler;

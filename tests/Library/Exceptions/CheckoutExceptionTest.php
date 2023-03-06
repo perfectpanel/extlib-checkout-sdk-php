@@ -1,6 +1,6 @@
 <?php
 
-namespace perfectpanel\Checkout\tests\Library;
+namespace Perfectpanel\Checkout\tests\Library;
 
 use Perfectpanel\Checkout\Library\Exceptions\CheckoutException;
 use PHPUnit\Framework\TestCase;

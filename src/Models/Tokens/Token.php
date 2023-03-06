@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models\Tokens;
+namespace Perfectpanel\Checkout\Models\Tokens;
 
 use Perfectpanel\Checkout\Library\HttpHandler;
 use Perfectpanel\Checkout\Library\Model;

@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models;
+namespace Perfectpanel\Checkout\Models;
 
 use Perfectpanel\Checkout\Library\Model;
 

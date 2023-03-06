@@ -1,6 +1,6 @@
 <?php
 
-namespace perfectpanel\Checkout\tests\Models\Payments;
+namespace Perfectpanel\Checkout\tests\Models\Payments;
 
 use Perfectpanel\Checkout\Models\Payments\Action;
 use Perfectpanel\Checkout\Models\Response;

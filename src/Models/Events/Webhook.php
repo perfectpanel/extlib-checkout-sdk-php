@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models\Events;
+namespace Perfectpanel\Checkout\Models\Events;
 
 use Perfectpanel\Checkout\Library\Model;
 

@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout;
+namespace Perfectpanel\Checkout;
 
 use Perfectpanel\Checkout\Controllers\EventController;
 use Perfectpanel\Checkout\Controllers\FileController;

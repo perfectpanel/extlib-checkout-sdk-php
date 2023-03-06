@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Models\Payments;
+namespace Perfectpanel\Checkout\Models\Payments;
 
 use Perfectpanel\Checkout\Library\Model;
 use Perfectpanel\Checkout\Models\Address;

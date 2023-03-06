@@ -1,6 +1,6 @@
 <?php
 
-namespace perfectpanel\Checkout\tests\Library;
+namespace Perfectpanel\Checkout\tests\Library;
 
 use Perfectpanel\Checkout\Library\LogHandler;
 use PHPUnit\Framework\TestCase;

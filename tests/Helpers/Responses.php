@@ -1,6 +1,6 @@
 <?php
 
-namespace perfectpanel\Checkout\tests\Helpers;
+namespace Perfectpanel\Checkout\tests\Helpers;
 
 use Perfectpanel\Checkout\Models\Response;
 

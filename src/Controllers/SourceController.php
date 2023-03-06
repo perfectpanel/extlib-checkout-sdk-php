@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Controllers;
+namespace Perfectpanel\Checkout\Controllers;
 
 use Perfectpanel\Checkout\Library\Controller;
 use Perfectpanel\Checkout\Library\HttpHandler;

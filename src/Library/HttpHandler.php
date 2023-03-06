@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Library;
+namespace Perfectpanel\Checkout\Library;
 
 use Perfectpanel\Checkout\CheckoutApi;
 use Perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;

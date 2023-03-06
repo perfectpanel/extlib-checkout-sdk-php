@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace perfectpanel\Checkout\Controllers;
+namespace Perfectpanel\Checkout\Controllers;
 
 /**
  * Upload files to server.
