@@ -17,13 +17,13 @@
 
 namespace perfectpanel\Checkout\Controllers;
 
-use perfectpanel\Checkout\Library\Controller;
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Models\Events\Event;
-use perfectpanel\Checkout\Models\Events\EventType;
-use perfectpanel\Checkout\Models\Events\Notification;
-use perfectpanel\Checkout\Models\Events\Webhook;
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Library\Controller;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Models\Events\Event;
+use Perfectpanel\Checkout\Models\Events\EventType;
+use Perfectpanel\Checkout\Models\Events\Notification;
+use Perfectpanel\Checkout\Models\Events\Webhook;
+use Perfectpanel\Checkout\Models\Response;
 
 /**
  * Handle event controller.

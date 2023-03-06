@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Library;
 
-use perfectpanel\Checkout\Library\Utilities;
+use Perfectpanel\Checkout\Library\Utilities;
 use PHPUnit\Framework\TestCase;
 
 /**

@@ -2,9 +2,9 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\Payment;
-use perfectpanel\Checkout\tests\Helpers\HttpHandlers;
-use perfectpanel\Checkout\tests\Helpers\Payments;
+use Perfectpanel\Checkout\Models\Payments\Payment;
+use Perfectpanel\Checkout\tests\Helpers\HttpHandlers;
+use Perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 
 class PaymentTest extends TestCase

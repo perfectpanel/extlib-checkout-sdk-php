@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Tokens;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Apple Pay header.

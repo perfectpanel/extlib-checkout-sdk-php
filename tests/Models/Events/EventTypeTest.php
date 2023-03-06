@@ -2,8 +2,8 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Events\EventType;
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Models\Events\EventType;
+use Perfectpanel\Checkout\Models\Response;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

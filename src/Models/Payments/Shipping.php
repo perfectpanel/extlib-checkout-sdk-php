@@ -17,9 +17,9 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Models\Address;
-use perfectpanel\Checkout\Models\Phone;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Models\Address;
+use Perfectpanel\Checkout\Models\Phone;
 
 /**
  * Payment shipping field model.

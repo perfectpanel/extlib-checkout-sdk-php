@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Library\Exceptions;
 
-use perfectpanel\Checkout\Library\LogHandler;
+use Perfectpanel\Checkout\Library\LogHandler;
 use Exception;
 use Throwable;
 

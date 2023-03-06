@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * 3DS model for payment.

@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Library;
 
-use perfectpanel\Checkout\Library\LogHandler;
+use Perfectpanel\Checkout\Library\LogHandler;
 use PHPUnit\Framework\TestCase;
 
 class LogHandlerTest extends TestCase

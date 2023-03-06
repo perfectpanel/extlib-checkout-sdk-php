@@ -2,9 +2,9 @@
 
 namespace perfectpanel\Checkout\tests\Controllers;
 
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\tests\Helpers\Tokens;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\tests\Helpers\Tokens;
 use PHPUnit\Framework\TestCase;
 
 class TokenControllerTest extends TestCase

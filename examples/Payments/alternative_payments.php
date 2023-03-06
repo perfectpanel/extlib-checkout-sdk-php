@@ -17,20 +17,20 @@ require_once "../../checkout.php";
  * Use namespaces.
  */
 
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Models\Payments\AlipaySource;
-use perfectpanel\Checkout\Models\Payments\BancontactSource;
-use perfectpanel\Checkout\Models\Payments\BoletoSource;
-use perfectpanel\Checkout\Models\Payments\EpsSource;
-use perfectpanel\Checkout\Models\Payments\FawrySource;
-use perfectpanel\Checkout\Models\Payments\GiropaySource;
-use perfectpanel\Checkout\Models\Payments\IdealSource;
-use perfectpanel\Checkout\Models\Payments\KnetSource;
-use perfectpanel\Checkout\Models\Payments\Payment;
-use perfectpanel\Checkout\Models\Payments\PoliSource;
-use perfectpanel\Checkout\Models\Payments\QpaySource;
-use perfectpanel\Checkout\Models\Payments\SofortSource;
-use perfectpanel\Checkout\Models\Product;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Models\Payments\AlipaySource;
+use Perfectpanel\Checkout\Models\Payments\BancontactSource;
+use Perfectpanel\Checkout\Models\Payments\BoletoSource;
+use Perfectpanel\Checkout\Models\Payments\EpsSource;
+use Perfectpanel\Checkout\Models\Payments\FawrySource;
+use Perfectpanel\Checkout\Models\Payments\GiropaySource;
+use Perfectpanel\Checkout\Models\Payments\IdealSource;
+use Perfectpanel\Checkout\Models\Payments\KnetSource;
+use Perfectpanel\Checkout\Models\Payments\Payment;
+use Perfectpanel\Checkout\Models\Payments\PoliSource;
+use Perfectpanel\Checkout\Models\Payments\QpaySource;
+use Perfectpanel\Checkout\Models\Payments\SofortSource;
+use Perfectpanel\Checkout\Models\Product;
 
 /**
  * Create new instance of Checkout

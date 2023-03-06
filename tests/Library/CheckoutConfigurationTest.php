@@ -2,8 +2,8 @@
 
 namespace perfectpanel\Checkout\tests\Library;
 
-use perfectpanel\Checkout\Library\CheckoutConfiguration;
-use perfectpanel\Checkout\tests\Helpers\CheckoutConfigurations;
+use Perfectpanel\Checkout\Library\CheckoutConfiguration;
+use Perfectpanel\Checkout\tests\Helpers\CheckoutConfigurations;
 use PHPUnit\Framework\TestCase;
 
 class CheckoutConfigurationTest extends TestCase

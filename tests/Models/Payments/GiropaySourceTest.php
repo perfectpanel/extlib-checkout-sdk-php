@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\GiropaySource;
+use Perfectpanel\Checkout\Models\Payments\GiropaySource;
 use PHPUnit\Framework\TestCase;
 
 class GiropaySourceTest extends TestCase

@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Sources;
 
-use perfectpanel\Checkout\Models\Address;
+use Perfectpanel\Checkout\Models\Address;
 
 /**
  * Billing Address for SEPA source.

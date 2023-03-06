@@ -2,9 +2,9 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Response;
-use perfectpanel\Checkout\Models\Webhooks\Webhook;
-use perfectpanel\Checkout\tests\Helpers\Webhooks;
+use Perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Models\Webhooks\Webhook;
+use Perfectpanel\Checkout\tests\Helpers\Webhooks;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

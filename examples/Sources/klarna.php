@@ -18,12 +18,12 @@ require_once "../../checkout.php";
  * Use namespaces.
  */
 
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Models\Address;
-use perfectpanel\Checkout\Models\Product;
-use perfectpanel\Checkout\Models\Sources\Klarna;
-use perfectpanel\Checkout\Models\Payments\Payment;
-use perfectpanel\Checkout\Models\Payments\KlarnaSource;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Models\Address;
+use Perfectpanel\Checkout\Models\Product;
+use Perfectpanel\Checkout\Models\Sources\Klarna;
+use Perfectpanel\Checkout\Models\Payments\Payment;
+use Perfectpanel\Checkout\Models\Payments\KlarnaSource;
 
 /**
  * Create new instance of Checkout

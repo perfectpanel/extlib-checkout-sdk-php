@@ -17,9 +17,9 @@
 
 namespace perfectpanel\Checkout\Controllers;
 
-use perfectpanel\Checkout\Library\Controller;
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Models\Sources\Source;
+use Perfectpanel\Checkout\Library\Controller;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Models\Sources\Source;
 
 /**
  * Add a payment source.

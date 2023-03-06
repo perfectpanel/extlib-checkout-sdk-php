@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Response model.s

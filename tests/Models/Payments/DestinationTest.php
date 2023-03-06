@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\Destination;
+use Perfectpanel\Checkout\Models\Payments\Destination;
 use PHPUnit\Framework\TestCase;
 
 class DestinationTest extends TestCase

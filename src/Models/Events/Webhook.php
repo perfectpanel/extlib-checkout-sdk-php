@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Events;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Webhook model.

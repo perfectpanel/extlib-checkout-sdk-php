@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Webhooks;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Headers field for webhook.

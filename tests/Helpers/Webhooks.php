@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Models\Webhooks\Webhook;
+use Perfectpanel\Checkout\Models\Webhooks\Webhook;
 
 class Webhooks
 {

@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\PoliSource;
+use Perfectpanel\Checkout\Models\Payments\PoliSource;
 use PHPUnit\Framework\TestCase;
 
 class PoliSourceTest extends TestCase

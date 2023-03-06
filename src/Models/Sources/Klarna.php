@@ -17,8 +17,8 @@
 
 namespace perfectpanel\Checkout\Models\Sources;
 
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Library\Utilities;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Model for sources.

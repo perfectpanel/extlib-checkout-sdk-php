@@ -17,8 +17,8 @@
 
 namespace perfectpanel\Checkout\Models\Events;
 
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Models\Response;
 
 /**
  * Event type model.

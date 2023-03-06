@@ -17,8 +17,8 @@
 
 namespace perfectpanel\Checkout\Library;
 
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
 
 /**
  * Http handler class.

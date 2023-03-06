@@ -17,8 +17,8 @@
 
 namespace perfectpanel\Checkout\Models\Tokens;
 
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Token base class.

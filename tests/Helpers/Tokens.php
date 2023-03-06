@@ -2,10 +2,10 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Models\Tokens\ApplePay;
-use perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
-use perfectpanel\Checkout\Models\Tokens\Card;
-use perfectpanel\Checkout\Models\Tokens\GooglePay;
+use Perfectpanel\Checkout\Models\Tokens\ApplePay;
+use Perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
+use Perfectpanel\Checkout\Models\Tokens\Card;
+use Perfectpanel\Checkout\Models\Tokens\GooglePay;
 
 class Tokens
 {

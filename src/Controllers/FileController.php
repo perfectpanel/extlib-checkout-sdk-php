@@ -26,7 +26,7 @@ namespace perfectpanel\Checkout\Controllers;
  * @license  https://opensource.org/licenses/mit-license.html MIT License
  * @link     https://docs.checkout.com/
  */
-use perfectpanel\Checkout\Library\Controller;
+use Perfectpanel\Checkout\Library\Controller;
 
 /**
  * Files.

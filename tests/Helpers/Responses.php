@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Models\Response;
 
 class Responses
 {

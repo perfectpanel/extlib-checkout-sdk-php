@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\IdealSource;
+use Perfectpanel\Checkout\Models\Payments\IdealSource;
 use PHPUnit\Framework\TestCase;
 
 class IdealSourceTest extends TestCase

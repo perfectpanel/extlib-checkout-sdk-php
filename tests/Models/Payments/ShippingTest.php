@@ -2,9 +2,9 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Address;
-use perfectpanel\Checkout\Models\Payments\Shipping;
-use perfectpanel\Checkout\Models\Phone;
+use Perfectpanel\Checkout\Models\Address;
+use Perfectpanel\Checkout\Models\Payments\Shipping;
+use Perfectpanel\Checkout\Models\Phone;
 use PHPUnit\Framework\TestCase;
 
 class ShippingTest extends TestCase

@@ -2,8 +2,8 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\Refund;
-use perfectpanel\Checkout\tests\Helpers\Payments;
+use Perfectpanel\Checkout\Models\Payments\Refund;
+use Perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

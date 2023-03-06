@@ -38,10 +38,10 @@ A card token can be obtained using one of Checkout.com's JavaScript frontend sol
 Include a `checkout-sdk-php/checkout.php` to access the operations for each API:
 
 ```php
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Models\Tokens\Card;
-use perfectpanel\Checkout\Models\Payments\TokenSource;
-use perfectpanel\Checkout\Models\Payments\Payment;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Models\Tokens\Card;
+use Perfectpanel\Checkout\Models\Payments\TokenSource;
+use Perfectpanel\Checkout\Models\Payments\Payment;
 
 // Set the secret key
 $secretKey = 'sk_test_key';

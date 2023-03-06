@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Library\CheckoutConfiguration;
+use Perfectpanel\Checkout\Library\CheckoutConfiguration;
 
 class CheckoutConfigurations
 {

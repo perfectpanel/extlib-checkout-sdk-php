@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Models\Events\Event;
+use Perfectpanel\Checkout\Models\Events\Event;
 
 class Events
 {

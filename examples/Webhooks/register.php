@@ -16,8 +16,8 @@ require_once "../../checkout.php";
 /**
  * Used namespaces.
  */
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Models\Webhooks\Webhook;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Models\Webhooks\Webhook;
 
 /**
  * Create new instance of Checkout

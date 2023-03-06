@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\Risk;
+use Perfectpanel\Checkout\Models\Payments\Risk;
 use PHPUnit\Framework\TestCase;
 
 class RiskTest extends TestCase

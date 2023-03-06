@@ -2,9 +2,9 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Models\Sources\BillingAddress;
-use perfectpanel\Checkout\Models\Sources\Sepa;
-use perfectpanel\Checkout\Models\Sources\SepaData;
+use Perfectpanel\Checkout\Models\Sources\BillingAddress;
+use Perfectpanel\Checkout\Models\Sources\Sepa;
+use Perfectpanel\Checkout\Models\Sources\SepaData;
 
 class Sources
 {

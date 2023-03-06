@@ -2,11 +2,11 @@
 
 namespace perfectpanel\Checkout\tests;
 
-use perfectpanel\Checkout\CheckoutApi;
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Library\LogHandler;
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\tests\Helpers\CheckoutConfigurations;
+use Perfectpanel\Checkout\CheckoutApi;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\LogHandler;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\tests\Helpers\CheckoutConfigurations;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

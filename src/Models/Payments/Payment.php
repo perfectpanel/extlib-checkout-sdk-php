@@ -17,10 +17,10 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Library\Utilities;
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Utilities;
+use Perfectpanel\Checkout\Models\Response;
 
 /**
  * Base payment model.

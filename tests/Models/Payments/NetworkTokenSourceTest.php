@@ -2,8 +2,8 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Payments\NetworkTokenSource;
-use perfectpanel\Checkout\tests\Helpers\Tokens;
+use Perfectpanel\Checkout\Models\Payments\NetworkTokenSource;
+use Perfectpanel\Checkout\tests\Helpers\Tokens;
 use PHPUnit\Framework\TestCase;
 
 class NetworkTokenSourceTest extends TestCase

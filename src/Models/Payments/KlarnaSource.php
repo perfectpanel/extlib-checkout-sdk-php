@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Models\Address;
+use Perfectpanel\Checkout\Models\Address;
 
 /**
  * Payment method Klarna.

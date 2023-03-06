@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Sources;
 
-use perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Model;
 
 /**
  * Model for sources.add(sepa).source_data.

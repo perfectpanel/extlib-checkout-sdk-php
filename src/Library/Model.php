@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Library;
 
-use perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\HttpHandler;
 
 /**
  * Parent class of Model.

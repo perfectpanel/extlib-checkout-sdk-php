@@ -17,7 +17,7 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Models\Product;
+use Perfectpanel\Checkout\Models\Product;
 
 /**
  * Payment method Fawry.

@@ -2,7 +2,7 @@
 
 namespace perfectpanel\Checkout\tests\Helpers;
 
-use perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\HttpHandler;
 
 class HttpHandlers
 {

@@ -2,8 +2,8 @@
 
 namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use perfectpanel\Checkout\Models\Tokens\GooglePay;
-use perfectpanel\Checkout\tests\Helpers\Tokens;
+use Perfectpanel\Checkout\Models\Tokens\GooglePay;
+use Perfectpanel\Checkout\tests\Helpers\Tokens;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

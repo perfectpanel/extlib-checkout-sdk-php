@@ -17,9 +17,9 @@
 
 namespace perfectpanel\Checkout\Models\Payments;
 
-use perfectpanel\Checkout\Library\HttpHandler;
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Library\Utilities;
+use Perfectpanel\Checkout\Library\HttpHandler;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Capture payment.

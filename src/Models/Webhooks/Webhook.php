@@ -17,9 +17,9 @@
 
 namespace perfectpanel\Checkout\Models\Webhooks;
 
-use perfectpanel\Checkout\Library\Model;
-use perfectpanel\Checkout\Library\Utilities;
-use perfectpanel\Checkout\Models\Response;
+use Perfectpanel\Checkout\Library\Model;
+use Perfectpanel\Checkout\Library\Utilities;
+use Perfectpanel\Checkout\Models\Response;
 
 /**
  * Webhook model.
