@@ -15,11 +15,11 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\Library\Model;
-use Perfectpanel\Checkout\Library\Utilities;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Capture payment.

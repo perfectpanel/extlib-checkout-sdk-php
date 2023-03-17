@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Perfectpanel\Checkout\Library\CheckoutConfiguration;
+use perfectpanel\Checkout\Library\CheckoutConfiguration;
 
 class CheckoutConfigurations
 {

@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Tokens;
+namespace perfectpanel\Checkout\Models\Tokens;
 
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Token base class.

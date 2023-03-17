@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Controllers;
+namespace perfectpanel\Checkout\Controllers;
 
 /**
  * Upload files to server.
@@ -26,7 +26,7 @@ namespace Perfectpanel\Checkout\Controllers;
  * @license  https://opensource.org/licenses/mit-license.html MIT License
  * @link     https://docs.checkout.com/
  */
-use Perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\Controller;
 
 /**
  * Files.

@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Library;
+namespace perfectpanel\Checkout\tests\Library;
 
-use Perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
+use perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
 use PHPUnit\Framework\TestCase;
 
 class CheckoutHttpExceptionTest extends TestCase

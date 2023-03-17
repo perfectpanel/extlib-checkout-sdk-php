@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Library;
+namespace perfectpanel\Checkout\Library;
 
-use Perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\HttpHandler;
 
 /**
  * Parent class of Model.

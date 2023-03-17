@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Events;
+namespace perfectpanel\Checkout\Models\Events;
 
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Event notification model.

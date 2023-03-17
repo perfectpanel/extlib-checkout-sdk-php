@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Library;
+namespace perfectpanel\Checkout\tests\Library;
 
-use Perfectpanel\Checkout\Library\LogHandler;
+use perfectpanel\Checkout\Library\LogHandler;
 use PHPUnit\Framework\TestCase;
 
 class LogHandlerTest extends TestCase

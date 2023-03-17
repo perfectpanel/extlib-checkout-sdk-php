@@ -1,11 +1,11 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Perfectpanel\Checkout\Models\Tokens\ApplePay;
-use Perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
-use Perfectpanel\Checkout\Models\Tokens\Card;
-use Perfectpanel\Checkout\Models\Tokens\GooglePay;
+use perfectpanel\Checkout\Models\Tokens\ApplePay;
+use perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
+use perfectpanel\Checkout\Models\Tokens\Card;
+use perfectpanel\Checkout\Models\Tokens\GooglePay;
 
 class Tokens
 {

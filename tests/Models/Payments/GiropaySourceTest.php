@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\GiropaySource;
+use perfectpanel\Checkout\Models\Payments\GiropaySource;
 use PHPUnit\Framework\TestCase;
 
 class GiropaySourceTest extends TestCase

@@ -1,12 +1,12 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Controllers;
+namespace perfectpanel\Checkout\tests\Controllers;
 
-use Perfectpanel\Checkout\CheckoutApi;
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\Models\Response;
-use Perfectpanel\Checkout\tests\Helpers\HttpHandlers;
-use Perfectpanel\Checkout\tests\Helpers\Payments;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Models\Response;
+use perfectpanel\Checkout\tests\Helpers\HttpHandlers;
+use perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

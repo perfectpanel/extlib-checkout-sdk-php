@@ -16,9 +16,9 @@ require_once "../../checkout.php";
 /**
  * Used namespaces.
  */
-use Perfectpanel\Checkout\CheckoutApi;
-use Perfectpanel\Checkout\Models\Tokens\ApplePay;
-use Perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Models\Tokens\ApplePay;
+use perfectpanel\Checkout\Models\Tokens\ApplePayHeader;
 
 /**
  * Create new instance of Checkout

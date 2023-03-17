@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
 /**
  * Payment method Ideal.

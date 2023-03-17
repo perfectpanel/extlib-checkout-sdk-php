@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Billing Descriptor for Payments.

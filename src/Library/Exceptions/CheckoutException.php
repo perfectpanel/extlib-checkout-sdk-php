@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Library\Exceptions;
+namespace perfectpanel\Checkout\Library\Exceptions;
 
-use Perfectpanel\Checkout\Library\LogHandler;
+use perfectpanel\Checkout\Library\LogHandler;
 use Exception;
 use Throwable;
 

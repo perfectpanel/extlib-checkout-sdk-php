@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Perfectpanel\Checkout\Models\Webhooks\Webhook;
+use perfectpanel\Checkout\Models\Webhooks\Webhook;
 
 class Webhooks
 {

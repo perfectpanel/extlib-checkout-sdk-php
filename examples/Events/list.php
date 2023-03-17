@@ -17,7 +17,7 @@ require_once "../../checkout.php";
  * Used namespaces.
  */
 
-use Perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\CheckoutApi;
 
 /**
  * Create new instance of Checkout

@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Library;
+namespace perfectpanel\Checkout\Library;
 
 use function ctype_space;
 

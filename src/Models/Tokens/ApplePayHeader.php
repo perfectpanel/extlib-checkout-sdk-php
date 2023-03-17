@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Tokens;
+namespace perfectpanel\Checkout\Models\Tokens;
 
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Apple Pay header.

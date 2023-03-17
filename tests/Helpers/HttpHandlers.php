@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Helpers;
+namespace perfectpanel\Checkout\tests\Helpers;
 
-use Perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Library\HttpHandler;
 
 class HttpHandlers
 {

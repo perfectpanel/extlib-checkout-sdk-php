@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\IdealSource;
+use perfectpanel\Checkout\Models\Payments\IdealSource;
 use PHPUnit\Framework\TestCase;
 
 class IdealSourceTest extends TestCase

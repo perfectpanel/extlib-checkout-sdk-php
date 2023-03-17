@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Address;
+use perfectpanel\Checkout\Models\Address;
 
 /**
  * Payment method Klarna.

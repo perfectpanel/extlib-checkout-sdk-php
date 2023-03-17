@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Library;
+namespace perfectpanel\Checkout\Library;
 
-use Perfectpanel\Checkout\CheckoutApi;
-use Perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\Exceptions\CheckoutHttpException;
 
 /**
  * Http handler class.

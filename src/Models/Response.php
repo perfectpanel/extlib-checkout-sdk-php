@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models;
+namespace perfectpanel\Checkout\Models;
 
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Response model.s

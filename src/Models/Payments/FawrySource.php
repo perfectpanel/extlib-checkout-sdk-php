@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Product;
+use perfectpanel\Checkout\Models\Product;
 
 /**
  * Payment method Fawry.

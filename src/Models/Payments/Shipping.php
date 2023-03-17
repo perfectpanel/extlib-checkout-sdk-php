@@ -15,11 +15,11 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Payments;
+namespace perfectpanel\Checkout\Models\Payments;
 
-use Perfectpanel\Checkout\Library\Model;
-use Perfectpanel\Checkout\Models\Address;
-use Perfectpanel\Checkout\Models\Phone;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Models\Address;
+use perfectpanel\Checkout\Models\Phone;
 
 /**
  * Payment shipping field model.

@@ -15,7 +15,7 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Library\Exceptions;
+namespace perfectpanel\Checkout\Library\Exceptions;
 
 /**
  * Empty class. Model exception.

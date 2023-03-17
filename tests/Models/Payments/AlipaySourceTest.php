@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\AlipaySource;
+use perfectpanel\Checkout\Models\Payments\AlipaySource;
 use PHPUnit\Framework\TestCase;
 
 class AlipaySourceTest extends TestCase

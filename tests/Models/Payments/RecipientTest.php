@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\Recipient;
+use perfectpanel\Checkout\Models\Payments\Recipient;
 use PHPUnit\Framework\TestCase;
 
 class RecipientTest extends TestCase

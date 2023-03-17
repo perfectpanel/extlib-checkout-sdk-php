@@ -15,9 +15,9 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Sources;
+namespace perfectpanel\Checkout\Models\Sources;
 
-use Perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Model;
 
 /**
  * Model for sources.add(sepa).source_data.

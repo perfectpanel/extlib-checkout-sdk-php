@@ -1,8 +1,8 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\BoletoSource;
+use perfectpanel\Checkout\Models\Payments\BoletoSource;
 use PHPUnit\Framework\TestCase;
 
 class BoletoSourceTest extends TestCase

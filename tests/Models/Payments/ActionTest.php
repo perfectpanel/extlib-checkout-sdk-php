@@ -1,10 +1,10 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Payments\Action;
-use Perfectpanel\Checkout\Models\Response;
-use Perfectpanel\Checkout\tests\Helpers\Payments;
+use perfectpanel\Checkout\Models\Payments\Action;
+use perfectpanel\Checkout\Models\Response;
+use perfectpanel\Checkout\tests\Helpers\Payments;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

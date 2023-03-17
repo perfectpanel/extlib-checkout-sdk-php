@@ -1,9 +1,9 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Models\Payments;
+namespace perfectpanel\Checkout\tests\Models\Payments;
 
-use Perfectpanel\Checkout\Models\Sources\Sepa;
-use Perfectpanel\Checkout\tests\Helpers\Sources;
+use perfectpanel\Checkout\Models\Sources\Sepa;
+use perfectpanel\Checkout\tests\Helpers\Sources;
 use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 

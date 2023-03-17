@@ -15,11 +15,11 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Controllers;
+namespace perfectpanel\Checkout\Controllers;
 
-use Perfectpanel\Checkout\Library\Controller;
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\Models\Tokens\Token;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Models\Tokens\Token;
 
 /**
  * Handle tokens.

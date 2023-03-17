@@ -1,10 +1,10 @@
 <?php
 
-namespace Perfectpanel\Checkout\tests\Controllers;
+namespace perfectpanel\Checkout\tests\Controllers;
 
-use Perfectpanel\Checkout\CheckoutApi;
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\tests\Helpers\Sources;
+use perfectpanel\Checkout\CheckoutApi;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\tests\Helpers\Sources;
 use PHPUnit\Framework\TestCase;
 
 class SourceControllerTest extends TestCase

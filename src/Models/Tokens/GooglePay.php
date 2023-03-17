@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Tokens;
+namespace perfectpanel\Checkout\Models\Tokens;
 
-use Perfectpanel\Checkout\Library\Model;
-use Perfectpanel\Checkout\Library\Utilities;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Library\Utilities;
 
 /**
  * Google payment method.

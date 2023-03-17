@@ -15,10 +15,10 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Models\Events;
+namespace perfectpanel\Checkout\Models\Events;
 
-use Perfectpanel\Checkout\Library\Model;
-use Perfectpanel\Checkout\Models\Response;
+use perfectpanel\Checkout\Library\Model;
+use perfectpanel\Checkout\Models\Response;
 
 /**
  * Event type model.

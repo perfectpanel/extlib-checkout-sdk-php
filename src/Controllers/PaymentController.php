@@ -15,17 +15,17 @@
  * @link      https://docs.checkout.com/
  */
 
-namespace Perfectpanel\Checkout\Controllers;
+namespace perfectpanel\Checkout\Controllers;
 
-use Perfectpanel\Checkout\Library\Controller;
-use Perfectpanel\Checkout\Library\HttpHandler;
-use Perfectpanel\Checkout\Models\Payments\Action;
-use Perfectpanel\Checkout\Models\Payments\Capture;
-use Perfectpanel\Checkout\Models\Payments\Details;
-use Perfectpanel\Checkout\Models\Payments\Payment;
-use Perfectpanel\Checkout\Models\Payments\Refund;
-use Perfectpanel\Checkout\Models\Payments\Voids;
-use Perfectpanel\Checkout\Models\Response;
+use perfectpanel\Checkout\Library\Controller;
+use perfectpanel\Checkout\Library\HttpHandler;
+use perfectpanel\Checkout\Models\Payments\Action;
+use perfectpanel\Checkout\Models\Payments\Capture;
+use perfectpanel\Checkout\Models\Payments\Details;
+use perfectpanel\Checkout\Models\Payments\Payment;
+use perfectpanel\Checkout\Models\Payments\Refund;
+use perfectpanel\Checkout\Models\Payments\Voids;
+use perfectpanel\Checkout\Models\Response;
 
 /**
  * Make payments.

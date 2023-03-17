@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Perfectpanel\\Checkout\\": "src/"
+            "perfectpanel\\Checkout\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Perfectpanel\\Checkout\\tests\\": "tests/"
+            "perfectpanel\\Checkout\\tests\\": "tests/"
         }
     },
     "require-dev": {
