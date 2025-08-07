@@ -1,7 +1,7 @@
 {
-    "name": "perfectpanel/extlib-checkout-sdk-php",
+    "name": "perfectpanel/extlib-checkout-sdk-php-private",
     "description": "Checkout.com SDK for PHP",
-    "homepage": "https://github.com/perfectpanel/extlib-checkout-sdk-php",
+    "homepage": "https://github.com/perfectpanel/extlib-checkout-sdk-php-private",
     "version": "1.0.8",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
     "authors": [
         {
             "name": "Checkout.com",
-            "homepage": "https://github.com/perfectpanel/extlib-checkout-sdk-php/graphs/contributors",
+            "homepage": "https://github.com/perfectpanel/extlib-checkout-sdk-php-private/graphs/contributors",
             "email": "platforms@checkout.com"
         }
     ],
